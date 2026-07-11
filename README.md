@@ -1,5 +1,4 @@
-```lua
---[[
+--[
     Script: Volleyball Legends Hub - Lucky Spin & Coins V3
     Versão: 3.0.0
     Foco: Farm de Lucky Spins e Coins (UPDATE 78)
