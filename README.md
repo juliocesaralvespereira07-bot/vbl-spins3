@@ -1,5 +1,3 @@
-Entendi! O problema é que o script está procurando o botão de spin de forma genérica, mas no **Volleyball Legends UPDATE 78** a mecânica de lucky spins pode ter mudado. Vamos ajustar o script para encontrar corretamente os elementos de lucky spin e coletar moedas.
-
 ```lua
 --[[
     Script: Volleyball Legends Hub - Lucky Spin & Coins V3
